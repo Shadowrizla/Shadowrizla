@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shadowrizla
-- 👀 I’m interested in Security 
-- 🌱 I’m currently learning k8s/Golang/DevSecOps
+- 👀 I’m interested in All things Security and Cloud Native Technologies / DevSecOps
 
 
 <!---
